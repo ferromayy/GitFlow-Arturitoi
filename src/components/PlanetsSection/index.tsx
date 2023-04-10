@@ -43,10 +43,13 @@ const Planets = () => {
 
   return (
     <div>
+      <h3>probamos algooooo</h3>
       <Table columns={columns} data={data.results.slice(0, 3)} /* :D */ />
     </div>
   );
 };
+//estoy modi9ficando este archivo
+
 
 //estoy modi9ficando este archivo
 
