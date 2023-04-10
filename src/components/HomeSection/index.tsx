@@ -11,6 +11,9 @@ const HomeSection = () => (
     <p className="text-lg">¡Elegí una sección!</p>
     <Button text="Documentación" href="https://www.swapi.it/documentation" />
   </div>
+  <div>
+    <button>hola</button>
+  </div>
 );
 
 export default HomeSection;
